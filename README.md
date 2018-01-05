@@ -13,4 +13,6 @@ To prepare and filter a gtf file:
 To modify configFile1.R
   Read 20171219_PlotBedGraphsAndAnnotations.pdf
   
+  Then, launch plot.coverageAndAnnot_v02.R
+  
   
